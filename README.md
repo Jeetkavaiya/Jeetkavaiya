@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLANGCHAIN and RAG<br>👯 I’m looking to collaborate on AI projects <br>🌱 I’m currently learning Reinforcement Learning, Generative AI, and LLMs
+🔭 I’m currently working on LANGCHAIN and RAG<br>👯 I’m looking to collaborate on AI projects <br>🌱 I’m currently learning Reinforcement Learning, Generative AI, and LLMs
 
 
 ## 🌐 Socials:
